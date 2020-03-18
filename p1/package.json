@@ -3,7 +3,9 @@
 	"version": "1.0.0",
 	"private": true,
 	"dependencies": {
+		"core-util-is": "^1.0.2",
+		"ejs": "2.x",
 		"express": "4.x",
-		"ejs": "2.x"
+		"express.io": "1.x"
 	}
 }
